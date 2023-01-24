@@ -22,7 +22,7 @@
 			</activation>
 			<properties>
 				<sonar.host.url>
-					http://sonarqube:9000
+					http://localhost:9000
 				</sonar.host.url>
 				<sonar.login>sqa_6468a4e402e0f78c597920b7fa2cea3e1c89dd13</sonar.login>
 			</properties>
